@@ -11,7 +11,7 @@ UniBasement transforms the way students prepare for exams. It allows students to
 
 ## Authors
 
-This project is brought to you by the Evan Hughes FanClub. Our team consists of:
+This project is brought to you by the Evan Hughes FanClub™. Our team consists of:
 
 ### Frontend
 
